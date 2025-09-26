@@ -4,7 +4,7 @@
 - Phase 1: Data Preparation – Mohamed Khaled Rammah
 - Phase 2: EDA + Feature Building – Ahmed Abdelkader Solia & Ibrahim Mohamed Ibrahim
 - Phase 3: Model Training & Validation – Mohamed Mamdouh & Mostafa Tarek 
-- Phase 4: Deployment (Streamlit App) – Nour
+- Phase 4: Deployment (Streamlit App) – Nour Ezz
 ---
 
 ##  Project Overview
@@ -56,6 +56,7 @@ The system is built using **LFW dataset** and deployed in a simple **Streamlit w
 ---
 
 ##  Demo Screenshots
+![Image](https://github.com/user-attachments/assets/1781128d-3f1e-4248-aaae-f8bb57e3dbc4)
 
 
 ---
